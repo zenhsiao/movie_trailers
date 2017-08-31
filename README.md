@@ -9,10 +9,10 @@ A webpage shows movie trailers
 
 ## Usage
 
-Download this repository and unzip the files
-open `entertainment_center.py` file(the IDLE will open automatically at the same time) 
-click run on IDLE toolbar, and click run module, the website will show up
-you can click the movie phote and the movie trailer will play
+- Download this repository and unzip the files
+- Open `entertainment_center.py` file(the IDLE will open automatically at the same time) 
+- Click run on IDLE toolbar, and click run module, the website will show up
+- Click the movie phote and the movie trailer will play
 
 
 ## Built With
